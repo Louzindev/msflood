@@ -11,5 +11,5 @@ sudo ./install.sh
 
 ## Usage
 ```bash
-msflood 121.0.0.1 3000 Hello 10
+msflood 127.0.0.1 3000 Hello 10
 ```
